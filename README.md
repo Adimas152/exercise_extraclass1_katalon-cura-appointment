@@ -8,7 +8,7 @@ Studi kasus:
 
 ## Project Info
 
-- Tool     : Katalon Studio 10.x
+- Tool     : Katalon Studio 10.4.2
 - Platform : Web UI (Chrome / Firefox)
 - Site     : CURA Healthcare Service Demo
 
